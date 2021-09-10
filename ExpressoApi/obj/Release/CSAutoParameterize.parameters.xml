@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ExpressoDbContext-Web.config Connection String" description="ExpressoDbContext Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:expressoapiserver.database.windows.net,1433;Initial Catalog=expressodb;Persist Security Info=False;User ID=pj;Password=Mama@1234;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\pj\\source\\repos\\v2ExpressoAzure9Sep21\\ExpressoApi\\ExpressoApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ExpressoDbContext']/@connectionString" />
+  </parameter>
+</parameters>

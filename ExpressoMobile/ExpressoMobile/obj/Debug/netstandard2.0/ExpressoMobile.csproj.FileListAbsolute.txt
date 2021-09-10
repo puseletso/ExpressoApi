@@ -1,0 +1,15 @@
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\bin\Debug\netstandard2.0\ExpressoMobile.deps.json
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\bin\Debug\netstandard2.0\ExpressoMobile.dll
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\bin\Debug\netstandard2.0\ref\ExpressoMobile.dll
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\bin\Debug\netstandard2.0\ExpressoMobile.pdb
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\obj\Debug\netstandard2.0\ExpressoMobile.csproj.AssemblyReference.cache
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\obj\Debug\netstandard2.0\ExpressoMobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\obj\Debug\netstandard2.0\ExpressoMobile.AssemblyInfoInputs.cache
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\obj\Debug\netstandard2.0\ExpressoMobile.AssemblyInfo.cs
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\obj\Debug\netstandard2.0\ExpressoMobile.csproj.CoreCompileInputs.cache
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\obj\Debug\netstandard2.0\ExpressoMobile.dll
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\obj\Debug\netstandard2.0\ref\ExpressoMobile.dll
+C:\Users\pj\source\repos\v2ExpressoAzure9Sep21\ExpressoApi\ExpressoMobile\ExpressoMobile\obj\Debug\netstandard2.0\ExpressoMobile.pdb

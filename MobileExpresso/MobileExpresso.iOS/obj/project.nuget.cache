@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FM9zabIOYNBMozLACMSkLYQgesoCLIMkjAx6D3qoDFVSsujmE8DCmibYRyBfuvyUjbKyAL5/LaBcVvwzYPt47g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pj\\source\\repos\\v2ExpressoAzure9Sep21\\ExpressoApi\\MobileExpresso\\MobileExpresso.iOS\\MobileExpresso.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pj\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pj\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\pj\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}
